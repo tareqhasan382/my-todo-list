@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 # my Todo List
 DEMU: https://my-todo-task.netlify.app/
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
